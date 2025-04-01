@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">I'm pursuing Master's in International Management</h3>
+<h3 align="center">I'm currently pursuing Master's in International Management</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy7596&label=Profile%20views&color=0e75b6&style=flat" alt="sandy7596" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/sandesh-s-hegde?tab=repositories)
@@ -11,7 +11,24 @@
 - Visit https://sandeshshegde.netlify.app/
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<h3 align="left">Work Experiences</h3>
+<p align="left"> SEP 2024 - CURRENT
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy7596&show_icons=true&locale=en&layout=compact" alt="sandesh-s-hegde" /></p>
+Pursuing Master's in International Management
+University of Galway, Ireland
+
+Part-time (2024/12 - Present)
+Connemara Coast Hotel
+
+NOV 2022 - NOV 2023
+
+Systems Engineer (Trainee)
+VeBuIn Pvt. Ltd.
+
+Front-end Developer, React
+VeBuIn Pvt. Ltd.
+
+FEB 2022 - OCT 2022
+
+Web Developer Intern
+Excel Generators Pvt. Ltd.
