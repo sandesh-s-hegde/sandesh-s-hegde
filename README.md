@@ -12,10 +12,8 @@
 
 
 <h3 align="left">Work Experiences</h3>
-<p align="left"> SEP 2024 - CURRENT
-
-Pursuing Master's in International Management
-University of Galway, Ireland
+<p align="left"> SEP 2024 - CURRENT | Pursuing Master's in International Management </p>
+<p> University of Galway, Ireland </p>
 
 Part-time (2024/12 - Present)
 Connemara Coast Hotel
