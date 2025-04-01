@@ -37,13 +37,6 @@
       <li>Integrated RESTful APIs and handled asynchronous operations</li>
       <li>Collaborated with UX designers to implement pixel-perfect interfaces</li>
     </ul>
-    <div style="margin-top: 15px;">
-      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">React</span>
-      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">JavaScript</span>
-      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Typescript</span>
-      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">HTML5</span>
-      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">CSS3</span>
-    </div>
   </div>
     </ul>
   </div>
