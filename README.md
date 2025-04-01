@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">MSc International Management Student | Tech Enthusiast | Multidisciplinary Professional</h3>
+<h3 align="center">MSc International Management Student | Tech Enthusiast | Ex Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" /> </p>
+<div>
+</div>
 
-## 🚀 Professional Journey
+## 🚀 My Journey
 
 ### 📚 Education
 <div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
@@ -21,7 +23,7 @@
     <p><strong>Part-time Staff</strong> | DEC 2024 - Present</p>
     <ul style="margin-top: 10px;">
       <li>Developing customer service skills in Ireland's hospitality sector</li>
-      <li>Gaining practical experience in an international work environment</li>
+      <li>Building practical experience in a new international setting</li>
     </ul>
   </div>
 
@@ -29,8 +31,20 @@
     <h3>💻 VeBuIn Pvt. Ltd.</h3>
     <p><strong>Systems Engineer (Trainee)</strong> | NOV 2022 - NOV 2023</p>
     <ul style="margin-top: 10px;">
-      <li>Worked on system architecture and technical solutions</li>
-      <li>Gained hands-on experience in software development lifecycle</li>
+      <li>Developed responsive web applications using React.js with modern hooks</li>
+      <li>Implemented state management using Context API and Redux</li>
+      <li>Built reusable components following best practices</li>
+      <li>Integrated RESTful APIs and handled asynchronous operations</li>
+      <li>Collaborated with UX designers to implement pixel-perfect interfaces</li>
+    </ul>
+    <div style="margin-top: 15px;">
+      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">React</span>
+      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">JavaScript</span>
+      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Typescript</span>
+      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">HTML5</span>
+      <span style="background: #e1f5fe; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">CSS3</span>
+    </div>
+  </div>
     </ul>
   </div>
 
@@ -43,6 +57,16 @@
     </ul>
   </div>
 </div>
+
+## 🛠 Core Technical Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+</p>
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -57,17 +81,8 @@
   </a>
 </p>
 
-## 🛠 Technical Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Management-Strategy-blue" alt="Management"/>
-</p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandesh-s-hegde&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-s-hegde&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
