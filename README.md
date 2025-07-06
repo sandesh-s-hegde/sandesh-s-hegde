@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">MSc International Management Student | Tech Enthusiast | Ex Software Developer</h3>
+<h3 align="center">Certified Scrum Master | MSc International Management Student | Ex Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" /> </p>
 <div>
