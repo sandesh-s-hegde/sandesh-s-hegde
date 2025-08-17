@@ -1,65 +1,74 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">Certified Scrum Master | MSc International Management Student | Ex Software Developer</h3>
+<h3 align="center">Certified Scrum Master | MSc International Management @ NUIG (Ireland) | ex Software Engineer (Japan)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" /> </p>
-<div>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" />
+</p>
+
+---
 
 ## 🚀 My Journey
 
 ### 📚 Education
 <div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h3>🎓 University of Galway</h3>
-  <p><strong>Master's in International Management</strong> | SEP 2024 - CURRENT</p>
-  <p>Developing expertise in global business strategies, cross-cultural management, and international market analysis.</p>
+  <h3>🎓 University of Galway, Ireland</h3>
+  <p><strong>Master's in International Management</strong> | Sep 2024 - Present</p>
+  <p>Developing expertise in global business strategy, cross-cultural management, Agile project delivery, and innovation in international markets.</p>
 </div>
+
+---
 
 ### 💼 Work Experience
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
 
   <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>🏨 Connemara Coast Hotel</h3>
-    <p><strong>Part-time Staff</strong> | DEC 2024 - Present</p>
-    <ul style="margin-top: 10px;">
-      <li>Developing customer service skills in Ireland's hospitality sector</li>
-      <li>Building practical experience in a new international setting</li>
+    <h3>🏨 Connemara Coast Hotel (Ireland)</h3>
+    <p><strong>Assistant (Part-time)</strong> | Dec 2024 - Jul 2025</p>
+    <ul>
+      <li>Supporting operations in a fast-paced hospitality environment (200-400 customers daily)</li>
+      <li>Developing teamwork, adaptability, and customer service skills while balancing postgraduate studies</li>
     </ul>
   </div>
 
   <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>💻 VeBuIn Pvt. Ltd.</h3>
-    <p><strong>Systems Engineer (Trainee)</strong> | NOV 2022 - NOV 2023</p>
-    <ul style="margin-top: 10px;">
-      <li>Developed responsive web applications using React.js with modern hooks</li>
-      <li>Implemented state management using Context API and Redux</li>
-      <li>Built reusable components following best practices</li>
-      <li>Integrated RESTful APIs and handled asynchronous operations</li>
-      <li>Collaborated with UX designers to implement pixel-perfect interfaces</li>
-    </ul>
-  </div>
+    <h3>💻 VeBuIn Inc. (Japan)</h3>
+    <p><strong>Systems Engineer / Product & Operations</strong> | Nov 2022 - Nov 2023</p>
+    <ul>
+      <li>Led end-to-end product lifecycle of a real-time analytics platform with <strong>5M+ users & ¥30M+ annual revenue</strong></li>
+      <li>Facilitated Agile ceremonies across India & Japan, improving sprint predictability by 20%</li>
+      <li>Automated invoice workflows and IT asset tracking using <strong>Jira, Confluence, Power BI</strong>, reducing cycle time by 25%</li>
+      <li>Built KPI dashboards (SQL, Firebase Analytics, Mixpanel) for real-time performance tracking</li>
+      <li>Delivered onboarding & training sessions, increasing new feature adoption by 40%</li>
     </ul>
   </div>
 
   <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>🌐 Excel Generators Pvt. Ltd.</h3>
-    <p><strong>Web Developer Intern</strong> | FEB 2022 - OCT 2022</p>
-    <ul style="margin-top: 10px;">
-      <li>Developed and maintained web applications</li>
-      <li>Gained practical experience in front-end technologies</li>
+    <h3>🌐 Excel Generators Pvt. Ltd. (India)</h3>
+    <p><strong>Product Development Intern</strong> | Feb 2022 - Oct 2022</p>
+    <ul>
+      <li>Redesigned UI/UX of client portal in <strong>ReactJS</strong>, reducing load time by 50%</li>
+      <li>Developed AI-powered chatbot for customer support, reducing ticket volume</li>
+      <li>Optimised workflow automation for sales & service teams, improving efficiency</li>
     </ul>
   </div>
 </div>
 
-## 🛠 Core Technical Skills
+---
+
+## 🛠 Core Skills
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Project%20Management-007ACC?style=for-the-badge&logo=microsoftproject&logoColor=white" alt="Project Management"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
+
+---
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -74,6 +83,7 @@
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Stats
 <p align="center">
