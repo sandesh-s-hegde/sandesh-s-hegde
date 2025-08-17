@@ -16,6 +16,17 @@
   <p>Developing expertise in global business strategy, cross-cultural management, Agile project delivery, and innovation in international markets.</p>
 </div>
 
+<div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <h3>🎓 Dayananda Sagar College of Engineering, Bangalore</h3>
+  <p><strong>Bachelor of Engineering (B.E.), Information Technology</strong> | Aug 2018 - Aug 2022</p>
+  <ul>
+    <li>Served as <strong>Class Representative</strong> for four consecutive years.</li>
+    <li>Led an inter-college hackathon as Student Community Head and organized <strong>HackMan</strong>, securing sponsorships from Nokia.</li>
+    <li>One among the <strong>Top Recruits</strong> of the graduating batch.</li>
+    <li>Actively participated in extracurricular activities throughout the program, strengthening leadership and collaboration skills.</li>
+  </ul>
+</div>
+
 ---
 
 ### 💼 Work Experience
