@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">Certified Scrum Master | MSc International Management @ NUIG (Ireland) | ex Software Engineer (Japan)</h3>
+<h3 align="center">Certified Scrum Master | MSc. International Management @ NUIG (Ireland) | Management & Operations Research</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandesh-s-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh-s-hegde" />
@@ -10,83 +10,96 @@
 ## 🚀 My Journey
 
 ### 📚 Education
-<div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h3>🎓 University of Galway, Ireland</h3>
-  <p><strong>Master's in International Management</strong> | Sep 2024 - Present</p>
-  <p>Developing expertise in global business strategy, cross-cultural management, Agile project delivery, and innovation in international markets.</p>
-</div>
 
-<div style="background: #f5f5f5; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
-  <h3>🎓 Dayananda Sagar College of Engineering, Bangalore</h3>
-  <p><strong>Bachelor of Engineering (B.E.), Information Technology</strong> | Aug 2018 - Aug 2022</p>
-  <ul>
-    <li>Served as <strong>Class Representative</strong> for four consecutive years.</li>
-    <li>Led an inter-college hackathon as Student Community Head and organized <strong>HackMan</strong>, securing sponsorships from Nokia.</li>
-    <li>One among the <strong>Top Recruits</strong> of the graduating batch.</li>
-    <li>Actively participated in extracurricular activities throughout the program, strengthening leadership and collaboration skills.</li>
-  </ul>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 20px;">
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>🎓 University of Galway, Ireland</h3>
+    <p><strong>Master's in International Management</strong> | Sep 2024 - Sep 2025</p>
+    <p>Developing expertise in global business strategy, cross-cultural management, Agile project delivery, and innovation in international markets.</p>
+  </div>
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>🎓 Dayananda Sagar College of Engineering</h3>
+    <p><strong>B.E., Information Technology</strong> | Aug 2018 - Aug 2022</p>
+    <ul>
+      <li>Served as <strong>Class Representative</strong> for four consecutive years.</li>
+      <li>Led an inter-college hackathon as Student Community Head.</li>
+      <li>One among the <strong>Top Recruits</strong> of the graduating batch.</li>
+    </ul>
+  </div>
 </div>
-
----
 
 ### 💼 Work Experience
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
 
-  <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>🏨 Connemara Coast Hotel (Ireland)</h3>
-    <p><strong>Assistant (Part-time)</strong> | Dec 2024 - Jul 2025</p>
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>🏨 The Choice Group - House Hotel (Ireland)</h3>
+    <p><strong>Night Operations Manager</strong> | Oct 2024 - Present</p>
     <ul>
-      <li>Supporting operations in a fast-paced hospitality environment (200-400 customers daily)</li>
-      <li>Developing teamwork, adaptability, and customer service skills while balancing postgraduate studies</li>
+      <li><strong>Service Operations Leadership:</strong> Oversee night-time logistics and guest services, managing front-of-house and bar operations in a high-pressure hospitality environment.</li>
+      <li><strong>Resource Coordination:</strong> Coordinate with housekeeping and security teams to ensure operational continuity and service quality during shift transitions.</li>
+      <li><strong>Crisis Management:</strong> Apply adaptive problem-solving to resolve guest conflicts and maintain service recovery standards without supervision.</li>
     </ul>
   </div>
 
-  <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3>💻 VeBuIn Inc. (Japan)</h3>
-    <p><strong>Systems Engineer / Product & Operations</strong> | Nov 2022 - Nov 2023</p>
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>💻 VeBuIn Pvt. Ltd. (Japan)</h3>
+    <p><strong>Product Manager (Digital Service Operations)</strong> | Nov 2023 - Jul 2024</p>
     <ul>
-      <li>Led end-to-end product lifecycle of a real-time analytics platform with <strong>5M+ users & ¥30M+ annual revenue</strong></li>
-      <li>Facilitated Agile ceremonies across India & Japan, improving sprint predictability by 20%</li>
-      <li>Automated invoice workflows and IT asset tracking using <strong>Jira, Confluence, Power BI</strong>, reducing cycle time by 25%</li>
-      <li>Built KPI dashboards (SQL, Firebase Analytics, Mixpanel) for real-time performance tracking</li>
-      <li>Delivered onboarding & training sessions, increasing new feature adoption by 40%</li>
+      <li><strong>Service Supply Chain Management:</strong> Managed the end-to-end digital value chain, coordinating upstream engineering (production) with downstream stakeholder requirements (demand) to ensure seamless delivery.</li>
+      <li><strong>Process Optimisation:</strong> Spearheaded the integration of a Generative AI pipeline to automate the "last mile" of business reporting, reducing manual processing bottlenecks by <strong>30%</strong>.</li>
+      <li><strong>Quantitative Performance Analysis:</strong> Designed <strong>PostgreSQL</strong> data architectures to capture high-velocity interaction data for KPI monitoring.</li>
+      <li><strong>Coordination:</strong> Managed strategic relationships with major enterprise partners (e.g., Sony Music Japan).</li>
     </ul>
   </div>
 
-  <div style="background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3>💻 VeBuIn Pvt. Ltd. (Japan)</h3>
+    <p><strong>Associate Product Manager, Full-stack Developer</strong> | Nov 2022 - Oct 2023</p>
+    <ul>
+      <li><strong>Workflow Digitisation:</strong> Directed the transformation of analogue information processes into structured digital workflows, improving the visibility and traceability of operational data.</li>
+      <li><strong>Bottleneck Analysis:</strong> Operationalised a data-driven approach to service improvement, analysing quantitative logs to identify and resolve friction points.</li>
+      <li><strong>Cross-Functional Alignment:</strong> Facilitated Agile operations, coordinating between Sales, Marketing, and Engineering.</li>
+    </ul>
+  </div>
+
+  <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3>🌐 Excel Generators Pvt. Ltd. (India)</h3>
-    <p><strong>Product Development Intern</strong> | Feb 2022 - Oct 2022</p>
+    <p><strong>Full-stack Developer</strong> | Feb 2022 - Oct 2022</p>
     <ul>
-      <li>Redesigned UI/UX of client portal in <strong>ReactJS</strong>, reducing load time by 50%</li>
-      <li>Developed AI-powered chatbot for customer support, reducing ticket volume</li>
-      <li>Optimised workflow automation for sales & service teams, improving efficiency</li>
+      <li><strong>Asset Monitoring Infrastructure:</strong> Architected relational databases to manage high-velocity sensor data from industrial generators.</li>
+      <li><strong>Computational Logic:</strong> Applied algorithmic principles to optimise data retrieval efficiency for decision-support systems.</li>
     </ul>
   </div>
+
 </div>
 
 ---
 
 ## 🛠 Core Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Project%20Management-007ACC?style=for-the-badge&logo=microsoftproject&logoColor=white" alt="Project Management"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sandesh-s-hegde" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:s.sandesh.hege@gmail.com">
+  <a href="mailto:sandeshshegde7596@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://sandeshshegde.netlify.app/" target="_blank">
@@ -97,6 +110,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-s-hegde&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
