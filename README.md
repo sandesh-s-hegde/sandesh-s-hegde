@@ -44,7 +44,7 @@
 
   <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3>💻 VeBuIn Pvt. Ltd. (Japan)</h3>
-    <p><strong>Product Manager (Digital Service Operations)</strong> | Nov 2023 - Jul 2024</p>
+    <p><strong>Product Manager | Research on AI Operations</strong> | Nov 2023 - Jul 2024</p>
     <ul>
       <li><strong>Service Supply Chain Management:</strong> Managed the end-to-end digital value chain, coordinating upstream engineering (production) with downstream stakeholder requirements (demand) to ensure seamless delivery.</li>
       <li><strong>Process Optimisation:</strong> Spearheaded the integration of a Generative AI pipeline to automate the "last mile" of business reporting, reducing manual processing bottlenecks by <strong>30%</strong>.</li>
@@ -55,7 +55,7 @@
 
   <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3>💻 VeBuIn Pvt. Ltd. (Japan)</h3>
-    <p><strong>Associate Product Manager, Full-stack Developer</strong> | Nov 2022 - Oct 2023</p>
+    <p><strong>ML & AI Engineer & Associate Product Manager | SmartFlow (SaaS Division)</strong> | Nov 2022 - Oct 2023</p>
     <ul>
       <li><strong>Workflow Digitisation:</strong> Directed the transformation of analogue information processes into structured digital workflows, improving the visibility and traceability of operational data.</li>
       <li><strong>Bottleneck Analysis:</strong> Operationalised a data-driven approach to service improvement, analysing quantitative logs to identify and resolve friction points.</li>
@@ -65,7 +65,7 @@
 
   <div style="background: #fff; color: #333; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3>🌐 Excel Generators Pvt. Ltd. (India)</h3>
-    <p><strong>Full-stack Developer</strong> | Feb 2022 - Oct 2022</p>
+    <p><strong>LLM Engineering Intern (Industrial Service Operations)</strong> | Feb 2022 - Oct 2022</p>
     <ul>
       <li><strong>Asset Monitoring Infrastructure:</strong> Architected relational databases to manage high-velocity sensor data from industrial generators.</li>
       <li><strong>Computational Logic:</strong> Applied algorithmic principles to optimise data retrieval efficiency for decision-support systems.</li>
@@ -86,7 +86,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
 </p>
