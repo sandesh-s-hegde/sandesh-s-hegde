@@ -98,9 +98,5 @@ Certified Scrum Master
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-s-hegde&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh-s-hegde" />
 </p>
