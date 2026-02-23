@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
 
 <h3 align="center">
-Business Analyst & Product Specialist · AI · Generative AI · Digital Transformation<br/>
+Product Specialist & Business Analyst · AI · Generative AI · Digital Transformation<br/>
 MSc International Management @ University of Galway · Certified Scrum Master (CSM®)
 </h3>
 
@@ -69,7 +69,7 @@ An end-to-end AI analytics agent built from requirements definition through to l
 
 | Role | Organisation | Period |
 |---|---|---|
-| Business Analyst – AI & Digital Products | VeBuIn Pvt. Ltd. | Nov 2023 – Jul 2024 |
+| Product Manager & Business Analyst – AI & Digital Products | VeBuIn Pvt. Ltd. | Nov 2023 – Jul 2024 |
 | AI Systems Analyst – Requirements & QA | VeBuIn Pvt. Ltd. | Nov 2022 – Oct 2023 |
 | Data & AI Readiness Analyst (Intern) | Excel Generators Pvt. Ltd. | Feb 2022 – Oct 2022 |
 
