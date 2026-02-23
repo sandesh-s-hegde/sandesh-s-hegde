@@ -15,7 +15,7 @@ MSc International Management @ University of Galway · Certified Scrum Master (C
 
 I help organisations turn complex business problems into clearly defined, deliverable solutions — bridging the gap between what stakeholders need and what technology teams can build.
 
-Over four years, I have worked as a **Business Analyst and Product Specialist** across enterprise AI platforms, financial services digital transformation, and data-driven product delivery — embedded within large, cross-functional teams where precise requirements and strong stakeholder alignment drive delivery outcomes.
+Over four years, I have worked as a **Product Specialist and Business Analyst** across enterprise AI platforms, financial services digital transformation, and data-driven product delivery — embedded within large, cross-functional teams where precise requirements and strong stakeholder alignment drive delivery outcomes.
 
 My work spans the full lifecycle: requirements elicitation, process mapping, user story writing, backlog management, UAT coordination, and post-launch performance monitoring. I have hands-on experience evaluating **Generative AI and LLM capabilities** against real business problems and translating that analysis into roadmap decisions stakeholders can act on.
 
