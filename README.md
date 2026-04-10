@@ -71,14 +71,15 @@ High-performance middleware bridging macro-strategic forecasting with micro-tact
 - **Aggregation Engine:** Consolidates multi-supplier capacity and prioritizes low-emission vehicle routing.
 - **Enterprise Architecture:** Deployed across a multi-cloud environment (Render & Neon) with comprehensive CI/CD, global exception handling, and observability telemetry.
 
-### 👁️ [Project Sentinel — Computer Vision for Logistics Visibility](https://github.com/sandesh-s-hegde/project-sentinel)
-> *Python · YOLOv8 · Computer Vision · Flow Entropy*
+### 🤖 [RPA Legacy Freight Bridge — Hyperautomation API](https://github.com/sandesh-s-hegde/rpa-freight-bridge)
+> *Python · FastAPI · UiPath · PostgreSQL · Docker · Prometheus*
 
-Addressed the "Data Gap" in Logistics Service Provider (LSP) risk modelling by treating video feeds as a structured data source.
+An enterprise-grade hyperautomation bridge designed to resolve the "digital disconnect" between modern AI orchestration and legacy, non-API freight carrier portals.
 
-- **Engineered a YOLOv8 + Sparse Optical Flow pipeline** to track kinematic disorder in high-density distribution nodes.
-- **Converted unstructured visual noise** into "Flow Entropy" metrics, enabling real-time volatility estimation.
-- **Designed to function as the "Sensor" layer** for Empirically Grounded Analytics (EGA).
+- **Asynchronous Execution:** Implemented a non-blocking Background Task model with **202 Accepted** status patterns, decoupling high-latency RPA workflows from upstream demand signals.
+- **Idempotent Transaction Logic:** Engineered a repository layer to prevent redundant carrier bookings, ensuring financial consistency across distributed system retries.
+- **Robotic Orchestration:** Directly integrates with **UiPath Orchestrator Queues** to trigger unattended robots, translating JSON payloads into simulated UI keystrokes for automated fulfilment.
+- **Distributed Observability:** Established full-stack tracing using **X-Correlation-ID** and Prometheus metrics to monitor system health and robotic success rates in real-time.
 
 ---
 
