@@ -17,7 +17,7 @@ I work at the intersection of AI product delivery and AI governance research —
 
 I designed and drove adoption of a Human-in-the-Loop validation framework for GenAI-driven decision workflows, and directed compliance efforts translating statutory requirements into deterministic system logic. I'm now researching this as a PhD candidate at Cork University Business School (UCC), examining the conditions under which organisations fail to define reverse-delegation thresholds for generative AI systems.
 
-📍 Based in Cork, Ireland · Full work authorisation
+📍 Based in Cork, Ireland · Stamp 2
 
 ---
 
